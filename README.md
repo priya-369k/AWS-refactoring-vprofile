@@ -25,6 +25,7 @@ A comprehensive AWS cloud migration project demonstrating **re-architecture/refa
 - **Auto Scaling Groups** - Dynamic capacity management
 
 ### Architecture Diagram
+![c3c1e0a3-3d5c-4584-8755-80f7f5ad7573](https://github.com/user-attachments/assets/7f5cc1c0-830e-4490-904b-a685659893ad)
 
 User → Route 53 → CloudFront (CDN) → ALB → EC2 Auto Scaling Group
 ↓
